@@ -1,0 +1,153 @@
+id,Ranks,Countries,Gold,Silver,Bronze,Total
+1,1,USA,24,31,31,86
+2,2,People�s Republic of China,22,22,16,60
+3,3,Australia,14,12,10,36
+4,4,France,13,16,19,48
+5,5,Great Britain,12,15,19,46
+6,6,Republic of Korea,11,8,7,26
+7,7,Japan,11,6,12,29
+8,8,Italy,9,10,7,26
+9,9,Netherlands,8,5,6,19
+10,10,Germany,8,5,4,17
+11,11,Canada,6,4,8,18
+12,12,Ireland,4,0,3,7
+13,13,New Zealand,3,5,1,9
+14,14,Hungary,3,3,2,8
+15,14,Sweden,3,3,2,8
+16,16,Romania,3,3,1,7
+17,17,Brazil,2,5,6,13
+18,18,Spain,2,3,5,10
+19,19,Ukraine,2,2,3,7
+20,20,Croatia,2,1,2,5
+21,21,Belgium,2,0,3,5
+22,22,"Hong Kong, China",2,0,2,4
+23,23,Philippines,2,0,1,3
+24,24,Azerbaijan,2,0,0,2
+25,24,Serbia,2,0,0,2
+26,26,Israel,1,4,1,6
+27,27,Switzerland,1,2,4,7
+28,28,Georgia,1,2,1,4
+29,29,Greece,1,1,5,7
+30,30,Poland,1,1,4,6
+31,31,Kazakhstan,1,1,3,5
+32,32,Kenya,1,1,2,4
+33,32,South Africa,1,1,2,4
+34,34,Chile,1,1,0,2
+35,34,Denmark,1,1,0,2
+36,34,Ecuador,1,1,0,2
+37,34,Saint Lucia,1,1,0,2
+38,34,Uganda,1,1,0,2
+39,39,Chinese Taipei,1,0,4,5
+40,40,Uzbekistan,1,0,2,3
+41,41,Cuba,1,0,1,2
+42,41,Czechia,1,0,1,2
+43,41,Guatemala,1,0,1,2
+44,44,Algeria,1,0,0,1
+45,44,Argentina,1,0,0,1
+46,44,Bahrain,1,0,0,1
+47,44,Dominica,1,0,0,1
+48,44,Norway,1,0,0,1
+49,44,Slovenia,1,0,0,1
+50,50,Jamaica,0,3,1,4
+51,51,Democratic People�s Republic,0,2,3,5
+52,52,Mexico,0,2,1,3
+53,53,Ethiopia,0,2,0,2
+54,54,Turkiye,0,1,2,3
+55,55,Kyrgyzstan,0,1,1,2
+56,55,Kosovo,0,1,1,2
+57,55,Thailand,0,1,1,2
+58,58,Armenia,0,1,0,1
+59,58,Colombia,0,1,0,1
+60,58,Fiji,0,1,0,1
+61,58,Mongolia,0,1,0,1
+62,58,Tunisia,0,1,0,1
+63,63,India,0,0,3,3
+64,63,Tajikistan,0,0,3,3
+65,65,Dominican Republic,0,0,2,2
+66,65,Lithuania,0,0,2,2
+67,65,Malaysia,0,0,2,2
+68,65,Republic of Moldova,0,0,2,2
+69,69,Austria,0,0,1,1
+70,69,Cabo Verde,0,0,1,1
+71,69,Egypt,0,0,1,1
+72,69,Grenada,0,0,1,1
+73,69,Indonesia,0,0,1,1
+74,69,Islamic Republic of Iran,0,0,1,1
+75,69,Portugal,0,0,1,1
+76,69,Slovakia,0,0,1,1
+77,1,USA,24,31,31,86
+78,2,People�s Republic of China,22,22,16,60
+79,3,Australia,14,12,10,36
+80,4,France,13,16,19,48
+81,5,Great Britain,12,15,19,46
+82,6,Republic of Korea,11,8,7,26
+83,7,Japan,11,6,12,29
+84,8,Italy,9,10,7,26
+85,9,Netherlands,8,5,6,19
+86,10,Germany,8,5,4,17
+87,11,Canada,6,4,8,18
+88,12,Ireland,4,0,3,7
+89,13,New Zealand,3,5,1,9
+90,14,Hungary,3,3,2,8
+91,14,Sweden,3,3,2,8
+92,16,Romania,3,3,1,7
+93,17,Brazil,2,5,6,13
+94,18,Spain,2,3,5,10
+95,19,Ukraine,2,2,3,7
+96,20,Croatia,2,1,2,5
+97,21,Belgium,2,0,3,5
+98,22,"Hong Kong, China",2,0,2,4
+99,23,Philippines,2,0,1,3
+100,24,Azerbaijan,2,0,0,2
+101,24,Serbia,2,0,0,2
+102,26,Israel,1,4,1,6
+103,27,Switzerland,1,2,4,7
+104,28,Georgia,1,2,1,4
+105,29,Greece,1,1,5,7
+106,30,Poland,1,1,4,6
+107,31,Kazakhstan,1,1,3,5
+108,32,Kenya,1,1,2,4
+109,32,South Africa,1,1,2,4
+110,34,Chile,1,1,0,2
+111,34,Denmark,1,1,0,2
+112,34,Ecuador,1,1,0,2
+113,34,Saint Lucia,1,1,0,2
+114,34,Uganda,1,1,0,2
+115,39,Chinese Taipei,1,0,4,5
+116,40,Uzbekistan,1,0,2,3
+117,41,Cuba,1,0,1,2
+118,41,Czechia,1,0,1,2
+119,41,Guatemala,1,0,1,2
+120,44,Algeria,1,0,0,1
+121,44,Argentina,1,0,0,1
+122,44,Bahrain,1,0,0,1
+123,44,Dominica,1,0,0,1
+124,44,Norway,1,0,0,1
+125,44,Slovenia,1,0,0,1
+126,50,Jamaica,0,3,1,4
+127,51,Democratic People�s Republic,0,2,3,5
+128,52,Mexico,0,2,1,3
+129,53,Ethiopia,0,2,0,2
+130,54,Turkiye,0,1,2,3
+131,55,Kyrgyzstan,0,1,1,2
+132,55,Kosovo,0,1,1,2
+133,55,Thailand,0,1,1,2
+134,58,Armenia,0,1,0,1
+135,58,Colombia,0,1,0,1
+136,58,Fiji,0,1,0,1
+137,58,Mongolia,0,1,0,1
+138,58,Tunisia,0,1,0,1
+139,63,India,0,0,3,3
+140,63,Tajikistan,0,0,3,3
+141,65,Dominican Republic,0,0,2,2
+142,65,Lithuania,0,0,2,2
+143,65,Malaysia,0,0,2,2
+144,65,Republic of Moldova,0,0,2,2
+145,69,Austria,0,0,1,1
+146,69,Cabo Verde,0,0,1,1
+147,69,Egypt,0,0,1,1
+148,69,Grenada,0,0,1,1
+149,69,Indonesia,0,0,1,1
+150,69,Islamic Republic of Iran,0,0,1,1
+151,69,Portugal,0,0,1,1
+152,69,Slovakia,0,0,1,1
