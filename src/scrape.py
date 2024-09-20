@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 def scrape_paris_olympic_games_media():
     url = "https://www.careerpower.in/blog/paris-olympic-games-2024-medal-tally"
     headers = {
@@ -26,7 +25,7 @@ def scrape_paris_olympic_games_media():
         for row in rows[1:]:
             columns = row.find_all('td')
             if len(columns) == 6:
-                Ranks = columns[0].text
+                Ranks = columns[0].text.stript()
                 Countries = columns[1].text.strip()
                 Gold = columns[2].text.strip()
                 Silver = columns[3].text.strip()

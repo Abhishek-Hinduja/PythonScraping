@@ -35,5 +35,4 @@ def generate_csv(filename='data/properties.csv'):
             })
         print("csv exported")
 
-
 generate_csv()
